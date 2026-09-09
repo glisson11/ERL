@@ -1,0 +1,6 @@
+{
+  "name": "Emma & Rose London — Customer Support AI Co-Pilot",
+  "description": "AI Co-Pilot for Emma & Rose London customer service. Generates SOP triage, official template drafts, brand-tailored warm drafts, and Help Scout documentation notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
